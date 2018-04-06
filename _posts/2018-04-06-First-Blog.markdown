@@ -1,14 +1,20 @@
 ---
 layout:     post
 title:      "A few words about me"
-subtitle:   " \"My first post here\""
+subtitle:   " \"A Ph.D candidate fighting on his way to the degree\""
 date:       2018-04-06 20:00:00
 author:     "YZ"
 header-img: "img/post-bg-sf.jpg"
 tags: Introduction
 ---
 
-> A Ph.D candidate fighting on his way to the degree
+>I am running out of time,
 
+>I need a doctor,
 
-—— by Yixuan 2018.04
+>Call me a doctor,
+
+>To bring me back to life.
+
+*—— by Yixuan 2018.04*
+ 
