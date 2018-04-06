@@ -81,7 +81,7 @@ featured-condition-size: 1              # A tag will be featured if the size of 
 friends: [
     {
         title: "Researchgate",
-        href: "researchgate.net/profile/Yixuan_Zheng"
+        href: "http://researchgate.net/profile/Yixuan_Zheng"
     },{
         title: "Foo",
         href: "#"
