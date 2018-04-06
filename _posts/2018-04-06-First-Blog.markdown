@@ -1,15 +1,15 @@
 ---
 layout:     post
-title:      "Welcome to Hux Blog"
+title:      "Welcome to Yixuan's Space"
 subtitle:   " \"Hello World, Hello Blog\""
-date:       2015-01-29 12:00:00
-author:     "Hux"
-header-img: "img/post-bg-2015.jpg"
+date:       2018-04-06 20:00:00
+author:     "YZ"
+header-img: "img/post-bg-sf.jpg"
 tags:
-    - 生活
+    - 
 ---
 
-> “Yeah It's on. ”
+> “Initilizing”
 
 
 ## 前言
