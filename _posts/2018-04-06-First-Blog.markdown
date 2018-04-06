@@ -5,7 +5,7 @@ subtitle:   " \"My first post here\""
 date:       2018-04-06 20:00:00
 author:     "YZ"
 header-img: "img/post-bg-sf.jpg"
-tags: Test
+tags: Introduction
 ---
 
 > A Ph.D candidate fighting on his way to the degree
