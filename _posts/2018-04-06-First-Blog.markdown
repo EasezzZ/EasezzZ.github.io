@@ -4,7 +4,7 @@ title:      "A few words about me"
 subtitle:   " \"A Ph.D candidate on his way to the degree\""
 date:       2018-04-06 20:00:00
 author:     "YZ"
-header-img: "img/post-bg-sf.jpg"
+header-img: "img/Snow_Princeton.JPG"
 tags: Introduction
 ---
 
