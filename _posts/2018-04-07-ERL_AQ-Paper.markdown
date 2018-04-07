@@ -17,11 +17,11 @@ tags: 'Paper' 'Air Quality' 'Public Health'
 
 The spatiotemporal resolved PM<sub>2.5</sub> map used in this study was derived by a data fusion model, which integrates satellite-derived aerosol optical depth (AOD) measurements, ground based observations, and air quality simulations.
 
-> Aerosol optical depth is defined as the integral of aerosol extinction coefficients along the vertical atmospheric column from the ground to the top of the atmosphere. It is regarded as an indicator of the abundance of particles in the vertical air column. (Liu et al., 2005, *Environ. Sci. Technol.*)
+> Aerosol optical depth is defined as the integral of aerosol extinction coefficients along the vertical atmospheric column from the ground to the top of the atmosphere. It is regarded as an indicator of the abundance of particles in the vertical air column. ([Liu et al., 2005, *Environ. Sci. Technol.*](https://pubs.acs.org/doi/abs/10.1021/es049352m))
 
 By further utilizing the integrated concentration–response functions (IER), we estimated avoided premature mortality as a result of the reductions in PM<sub>2.5</sub> concentrations. 
 
->The integrated concentration–response functions (IER) provide relationships between chronic exposure to PM<sub>2.5</sub> and attributable mortalities. (Burnett et al., 2014, *Environ. Health Perspect.*)
+>The integrated concentration–response functions (IER) provide relationships between chronic exposure to PM<sub>2.5</sub> and attributable mortalities. ([Burnett et al., 2014, *Environ. Health Perspect.*](https://ehp.niehs.nih.gov/1307049/))
 
 Premature mortality related to PM<sub>2.5</sub> pollution reduced by 9% as the consequence of a 22% reduction in national population-weighted PM<sub>2.5</sub> concentration. The limited health benefits compared to air quality improvements are mainly due to the supralinear responses of mortality to PM2.5 over the high concentration end of the concentration–response functions. 
 
