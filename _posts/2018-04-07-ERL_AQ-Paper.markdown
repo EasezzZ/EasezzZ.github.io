@@ -5,7 +5,7 @@ subtitle:   " \"But there is still long way to go\""
 date:       2018-04-07 12:00:00
 author:     "YZ"
 header-img: "img/post-bg-sf.jpg"
-tags: 'Paper' 'Air Quality' 'Public Health'
+tags: [Paper, Air Quality, Public Health]
 ---
 
 >In 2013, the state council of China promulgated the ‘Air Pollution Prevention and Control Action Plan’ (the Action Plan), targeting to reduce particulate pollution across the whole nation.
