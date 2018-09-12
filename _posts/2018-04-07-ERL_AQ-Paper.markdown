@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      "Improving air quality are reducing related deaths in China"
-subtitle:   " \"But there is still long way to go\""
+subtitle:   " \"But there is still a long way to go\""
 date:       2018-04-07 12:00:00
 author:     "YZ"
 header-img: "img/post-bg-sf.jpg"
