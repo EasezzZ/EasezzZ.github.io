@@ -2,7 +2,7 @@
 title: Yixuan Zheng
 SEOTitle: Yixuan's Website
 header-img: img/post-bg-sf.jpg
-email: zheng-yx13@mails.tsinghua.edu.com
+email: yxzheng@carnegiescience.edu
 description: ""
 keyword: ""
 url: "http://EasezzZ.github.io"              # your host, for absolute URL
@@ -14,10 +14,10 @@ baseurl: ""         # for example, '/blog' if your blog hosted on 'host/blog'
 RSS: false
 
 facebook_username:     zheng.yixuan.7
-weibo_username:     yishionwhuer
-zhihu_username:     easezzz
-github_username:    EasezzZ
-
+#weibo_username:     yishionwhuer
+#zhihu_username:     easezzz
+#github_username:    EasezzZ
+twitter_username:    zheng_yixuan
 
 
 # Build settings
@@ -68,7 +68,7 @@ kramdown:
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "A Ph.D candidate in Atmospheric Science"
+sidebar-about-description: "A postdoctoral research scientist at the Carnegie Institution for Science @ Stanford"
 sidebar-avatar: /img/avatar-ironman.jpeg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
