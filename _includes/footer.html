@@ -17,7 +17,7 @@
 		    <!-- add google scholar add target = "_blank" to <a> by YZ -->
 		     {% if site.googlescholar_username %}
                             <li>
-                                <a target="_blank" href="https://scholar.google.com/citations?user={{ site.googlescholar_username }}">
+                                <a href="https://scholar.google.com/citations?user={{ site.googlescholar_username }}">
                                     <span class="fa-stack fa-lg">
                                         <i class="fa fa-circle fa-stack-2x"></i>
                                         <i class="fa  fa-google fa-stack-1x fa-inverse"></i>
@@ -25,9 +25,10 @@
                                 </a>
                             </li>
                     {% endif %}
+
 		     {% if site.researchgate_username %}
                             <li>
-                                <a target="_blank" href="https://www.researchgate.net/profile/{{ site.researchgate_username }}">
+                                <a href="https://www.researchgate.net/profile/{{ site.researchgate_username }}">
                                     <span class="fa-stack fa-lg">
                                         <i class="fa fa-circle fa-stack-2x"></i>
                                         <i class="fa  fa-researchgate fa-stack-1x fa-inverse"></i>
