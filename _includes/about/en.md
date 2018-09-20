@@ -11,4 +11,4 @@ Before coming to the Carnegie Institution, I received my Ph.D. from the Departme
 
 [My Google Scholar](https://scholar.google.com/citations?user=PZgph2MAAAAJ&hl=en&oi=sra
 I)   
-[My Researchgate](researchgate.net/profile/Yixuan_Zheng)
+[My Researchgate](https://researchgate.net/profile/Yixuan_Zheng)
