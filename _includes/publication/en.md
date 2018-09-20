@@ -37,7 +37,7 @@
 1. __Zheng Y.__, Q. Zhang, Y. Liu, et al., Estimating ground-level PM<sub>2.5</sub> concentrations over three megalopolises in China using satellite-derived aerosol optical depth measurements, European Geosciences Union General Assembly 2016, Vienna, Austria, Apr. 2016 (Oral)
 
 ### Paper in progress
-1.Zheng, B., D. Tong, M. Li,…, __Y. Zheng__, et al., Trends in China's anthropogenic emissions since 2010 as the consequence of clean air actions, _Atmos. Phys. Chem._, _accepted_, https://doi.org/10.5194/acp-2018-374
-2.__Zheng Y.__, Qiang. Zhang, S. J. Davis, et al., Drivers of air pollution deaths in China 2002-2012, _in prep_
-3.__Zheng Y.__, D. Tong, Q. Zhang, et al., Environmental and public health benefits of China’s clean air actions 2013-2017, _in prep_
+1. Zheng, B., D. Tong, M. Li,…, __Y. Zheng__, et al., Trends in China's anthropogenic emissions since 2010 as the consequence of clean air actions, _Atmos. Phys. Chem._, _accepted_, https://doi.org/10.5194/acp-2018-374
+2. __Zheng Y.__, Qiang. Zhang, S. J. Davis, et al., Drivers of air pollution deaths in China 2002-2012, _in prep_
+3. __Zheng Y.__, D. Tong, Q. Zhang, et al., Environmental and public health benefits of China’s clean air actions 2013-2017, _in prep_
 
