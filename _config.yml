@@ -85,11 +85,9 @@ friends: [
     {
 	title: "DGE, Carnegie Institution",
         href: "https://dge.carnegiescience.edu/"
+    },
+    {
+	title: "Caldeira Lab",
+        href: "https://dge.carnegiescience.edu/labs/caldeiralab/"
     }
-#,
-#    {
-#	title: "Caldeira Lab",
-#        href: "https://dge.carnegiescience.edu/labs/caldeiralab/"
-#    },
-
    ]
