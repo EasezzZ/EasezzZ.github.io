@@ -86,6 +86,8 @@ friends: [
         title: "Researchgate",
         href: "http://researchgate.net/profile/Yixuan_Zheng"
     }
+    {
 	title: "Google Scholar"
         href: "https://scholar.google.com/citations?user=PZgph2MAAAAJ&hl=en&oi=sra"
+    }
     ]
