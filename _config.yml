@@ -80,10 +80,10 @@ featured-condition-size: 0              # A tag will be featured if the size of 
 
 
 
-# Friends
-friends: [
-    {
-	title: "Google Scholar",
-        href: "https://scholar.google.com/citations?user=PZgph2MAAAAJ&hl=en&oi=sra"
-    }
+## Friends
+#friends: [
+#    {
+#	title: "Google Scholar",
+#        href: "https://scholar.google.com/citations?user=PZgph2MAAAAJ&hl=en&oi=sra"
+#    }
     ]
