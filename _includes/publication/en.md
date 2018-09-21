@@ -7,7 +7,7 @@
 #### 2018
 
 15. Liu, M., J. Lin, Y. Wang, …, __Y. Zheng__, et al., Spatiotemporal variability of NO<sub>2</sub> and PM<sub>2.5</sub> over Eastern China: observational and model analyses with a novel statistical method, _Atmos. Phys. Chem._, 2018, 18, 12933-12952
-14. Zhang, Y., X. Li, M. Li, Y. Zheng, et al., Reduction in black carbon light absorption due to multi-pollutant emission control during APEC China 2014, Atmos. Phys. Chem., 2018, 18: 10275-10287
+14. Zhang, Y., X. Li, M. Li, Y. Zheng, et al., Reduction in black carbon light absorption due to multi-pollutant emission control during APEC China 2014, _Atmos. Phys. Chem._, 2018, 18: 10275-10287
 13. Li, H., B. Zheng, Q. Zhang, …, __Y. Zheng__, et al., Nitrate-driven haze pollution during summertime over the North China Plain, _Atmos. Phys. Chem._, 2018, 18:5293-306
 12. Cai W., J. Hui, C. Wang, __Y. Zheng__, et al., PM<sub>2.5</sub> pollution-related health impacts of China’s projected CO<sub>2</sub> mitigation in the power generation sector under the Paris Agreement, _Lancet Planet. Health_, 2018, 2: e151-e161.
 11. Guan T., T. Xue, Y. Liu, __Y. Zheng__, et al., Differential susceptibility in ambient particle-related first-ever stroke onset risk: findings from a national case-crossover study, 2018, _Am. J. Epidemiol._, https://doi.org/10.1093/aje/kwy007
